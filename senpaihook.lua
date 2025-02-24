@@ -1,5 +1,6 @@
 -- if the script dont work or u cant get the key goto guns.lol/cursyn 
 -- or go to sukianux.github.io/senpaihook-website
+
 --[[
  ________  _______   ________   ________  ________  ___  ___  ___  ________  ________  ___  __    ___       
 |\   ____\|\  ___ \ |\   ___  \|\   __  \|\   __  \|\  \|\  \|\  \|\   __  \|\   __  \|\  \|\  \ |\  \      
