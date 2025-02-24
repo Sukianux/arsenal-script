@@ -15,3 +15,23 @@
                                   │   > @cursynwashere      │
                                   │   > @lucas058713        │
                                   ╰─────────────────────────╯
+                                                                
+                     ╭───────────────────────────────────────────────────╮
+                     │         Features                                  │
+                     │   > Combat (Aimbot / HitboxExpander)              │
+                     │   > ESP (Boxes / Name / Team Check / 3rd Person)  │
+                     │   > Character (Speed / Inf Jump / NoClip)         │
+                     │   > Misc [COMING SOON]                            │
+                     ╰───────────────────────────────────────────────────╯
+
+                                  ╭─────────────────────────╮
+                                  │ Contacts:               │
+                                  │   > .gg/JePrpNUPD7      │
+                                  │   > guns.lol/cursyn     │
+                                  ╰─────────────────────────╯
+
+                               ╭────────────────────────────────╮
+                               │             Website            │
+                               │   > https://shorturl.at/kmfTC  |
+                               ╰────────────────────────────────╯
+
