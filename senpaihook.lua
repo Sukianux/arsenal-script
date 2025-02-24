@@ -1,6 +1,6 @@
 -- if the script dont work or u cant get the key goto guns.lol/cursyn 
 -- or go to sukianux.github.io/senpaihook-website
---]]
+--[[
  ________  _______   ________   ________  ________  ___  ___  ___  ________  ________  ___  __    ___       
 |\   ____\|\  ___ \ |\   ___  \|\   __  \|\   __  \|\  \|\  \|\  \|\   __  \|\   __  \|\  \|\  \ |\  \      
 \ \  \___|\ \   __/|\ \  \\ \  \ \  \|\  \ \  \|\  \ \  \ \  \\\  \ \  \|\  \ \  \|\  \ \  \/  /|\ \  \     
@@ -11,7 +11,7 @@
    \|_________|                                                                                        |\__\
                                                                                                        \|__|
 
---[[
+--]]
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Sukianux/senpaihook/refs/heads/main/keysys"))()
