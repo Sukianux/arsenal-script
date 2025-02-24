@@ -1,5 +1,5 @@
 
-[![Preview](https://img.youtube.com/vi/AbV49GHDwfg/maxresdefault.jpg)](https://youtu.be/AbV49GHDwfg?si=HeSXdtdXdnIx8SjP)
+[![Preview]([https://media.discordapp.net/attachments/1330545180817883241/1340639464627634246/image.png?ex=67bda34c&is=67bc51cc&hm=5f4b586e8281da1e60a14f7d174a0578df273b8ec726747f35797ef19adbc326&=&format=webp&quality=lossless))](https://youtu.be/AbV49GHDwfg?si=HeSXdtdXdnIx8SjP)
 
 ```
  ________  _______   ________   ________  ________  ___  ___  ___  ________  ________  ___  __    ___       
